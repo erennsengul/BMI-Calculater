@@ -1,0 +1,54 @@
+html{
+    background-color: #202020;
+}
+
+#bmi-box{
+ 
+    color: whitesmoke;
+    width: 80%;
+    position: absolute;
+    top: 20%;
+    left: 11%;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.row{
+    margin-bottom: 20px;
+}
+
+button{
+    position: relative;
+    width: 200px;
+    left: 125%;
+}
+
+
+#bmi-result{
+    text-align: center;
+    margin-top: 10px;
+}
+
+.bmi-info{
+    text-align: center;
+}
+
+.bmi-info #first{
+    background-color: orange;
+    
+}
+
+.bmi-info #second{
+    background-color: green;
+  
+}
+
+.bmi-info #third{
+    background-color:indianred;
+    
+}
+
+.bmi-info #fourth{
+    background-color: red;
+   
+}
